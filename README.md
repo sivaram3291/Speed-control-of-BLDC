@@ -16,7 +16,7 @@ Connections for Arduino Due:
  pin 35          PWMH0 -------> T1
  pin 36          PWML1 -------> T6
  pin 37          PWMH1 -------> T3
-// pin 38          PWML2 -------> T2
+ pin 38          PWML2 -------> T2
 // pin 39          PWMH2 -------> T5
 
 // pin 25          Hu -- yellow
