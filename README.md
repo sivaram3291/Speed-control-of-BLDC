@@ -16,16 +16,16 @@ Connections for Arduino Due:
  pin 35          PWMH0 -------> T1
  pin 36          PWML1 -------> T6
  pin 37          PWMH1 -------> T3
- pin 38          PWML2 -------> T2
-// pin 39          PWMH2 -------> T5
+ pin 38          PWML2 -------> T2 
+ pin 39          PWMH2 -------> T5
 
-// pin 25          Hu -- yellow
-// pin 26          Hv -- green
-// pin 27          Hw -- blue
+ pin 25          Hu -- yellow
+ pin 26          Hv -- green
+ pin 27          Hw -- blue
 
-// The Rotary Encoder signals are connected as
-// pin 4           PHA
-// pin 5           PHB
+The Rotary Encoder signals are connected as
+pin 4           PHA
+pin 5           PHB
 
 
 Connections for Arduino Mega:
