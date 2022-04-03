@@ -11,11 +11,11 @@ For controlling the BLDC motor speed, I developed some code for microcontrollers
 
 Connections for Arduino Due:
 
-// The connection for the gate driver board is.
-// pin 34          PWML0 -------> T4
-// pin 35          PWMH0 -------> T1
-// pin 36          PWML1 -------> T6
-// pin 37          PWMH1 -------> T3
+ The connection for the gate driver board is.
+ pin 34          PWML0 -------> T4
+ pin 35          PWMH0 -------> T1
+ pin 36          PWML1 -------> T6
+ pin 37          PWMH1 -------> T3
 // pin 38          PWML2 -------> T2
 // pin 39          PWMH2 -------> T5
 
