@@ -6,7 +6,11 @@ In this repository, I will share the code related controlling the speed controll
 For controlling the BLDC motor speed, I developed some code for microcontrollers the devices ATSAM3X8E and Atmega2560.
 
 
-Connections for Arduino Due:
+
+
+
+
+ Connections for Arduino Due:
 
  The connection for the gate driver board is.
  pin 34          PWML0 -------> T4
